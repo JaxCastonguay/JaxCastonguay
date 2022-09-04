@@ -8,4 +8,4 @@ author: null
 show_tile: false
 ---
 
-My site is currently under construction. In the mean time you can send me an email or text.
+I build low cost, secure, quality websites to meet your needs.
