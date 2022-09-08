@@ -14,9 +14,6 @@ nav-menu: true
 					<h2>How I started</h2>
 				</header>
 				<p>My name is Jacques. I’ve been a full time developer since 2020. That <i>unique</i> situation gave me a lot of time to hone my skills. Even before that I was working as a developer while studying since 2017. I absolutely love projects. Nothing is more fun for me than starting with a vision, and seeing it through to the end and being able to say “I made this.”</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
-				</ul>
 			</div>
 		</div>
 	</section>
