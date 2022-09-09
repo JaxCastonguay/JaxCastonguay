@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: "Hi, my name is Jax"
-description: null
+description: "Full Stack Software Developer"
 image: null
 author: null
 show_tile: false

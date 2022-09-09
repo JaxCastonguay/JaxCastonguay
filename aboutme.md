@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About Me
+description: "Full time full stack software developer"
 image: assets/images/fireplace_in_the_woods_cropped.jpg
 nav-menu: true
 ---

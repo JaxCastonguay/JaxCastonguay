@@ -1,7 +1,7 @@
 ---
-title: Sites by Jax
+title: Websites by Jax
 layout: landing
-description: "Low cost professional websites. Built for you, by me."
+description: "Low cost professional websites for small/meduim sized businesses."
 image: assets/images/mountain_with_a_small_cabin_2_cropped.jpg
 nav-menu: true
 ---

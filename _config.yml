@@ -1,6 +1,6 @@
 # site settings
 title: Jax Castonguay
-subtitle: Web Developer
+subtitle: Developer
 email: jaxcastonguaydev@gmail.com
 description: I make affordable websites for small businesses
 baseurl: "/" # the subpath of your site, e.g. /blog
@@ -38,3 +38,6 @@ exclude:
   - LICENSE.md
   - CONTRIBUTING.md
   - README.md
+
+plugins:
+  - jekyll-seo-tag
