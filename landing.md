@@ -45,7 +45,8 @@ nav-menu: true
 				<header class="major">
 					<h3>No Monthly Hosting Fee</h3>
 				</header>
-				<p>You read that right. Not only do the build-your-own-site companies make you do all the work yourself - but they even make you pay just to keep it accessable.</p>
+				<p>You read that right. Not only do the build-your-own-site companies make you do all the work yourself - but they even make you pay just to keep it accessable.
+				<br><br>That means you'll save almost $300 EVERY YEAR as compared to the do-it-yourself competitors.</p>
 				<!-- <ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul> -->
