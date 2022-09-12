@@ -1,8 +1,8 @@
 ---
-title: Websites by Jax
+title: Affordable Websites by Jax
 layout: landing
-description: "Low cost professional websites for small/meduim sized businesses."
-short-description: "Low cost professional websites for small/meduim sized businesses."
+description: "Low cost professional websites for small/medium sized businesses. Here's how I'll save you time and money"
+short-description: "Low cost professional websites for small/medium sized businesses."
 image: assets/images/mountain_with_a_small_cabin_2_cropped.jpg
 nav-menu: true
 ---
@@ -16,7 +16,7 @@ nav-menu: true
 		<header class="major">
 			<h2>From One Small Business To Another, I've Got You Covered</h2>
 		</header>
-		<p>I get it. You're tired of playing 20 questions with Google figure out why your site isn't working. You're tired of being upsold for features you're not even sure you'll need. You're tired all the monthly fees just to keep going. <br><br>I'm here to help.</p>
+		<p>I get it. You're tired of playing 20 questions with Google figure out why your site isn't working. You're tired of being up-sold for features you're not even sure you'll need. You're tired all the monthly fees just to keep going. <br><br>I'm here to help.</p>
 	</div>
 </section>
 
@@ -46,7 +46,7 @@ nav-menu: true
 				<header class="major">
 					<h3>No Monthly Hosting Fee</h3>
 				</header>
-				<p>You read that right. Not only do the build-your-own-site companies make you do all the work yourself - but they even make you pay just to keep it accessable.
+				<p>You read that right. Not only do the build-your-own-site companies make you do all the work yourself - but they even make you pay just to keep it accessible.
 				<br><br>That means you'll save almost $300 EVERY YEAR as compared to the do-it-yourself competitors.</p>
 				<!-- <ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>

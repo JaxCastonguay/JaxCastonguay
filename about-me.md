@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-description: "Full time full stack software developer"
+description: "Full time full stack software developer. Working hard to bring projects to life."
 short-description: "Full time full stack software developer"
 image: assets/images/fireplace_in_the_woods_cropped.jpg
 nav-menu: true
@@ -44,7 +44,7 @@ nav-menu: true
 			<h4>Software Development Intern | October 2017 - May 2020</h4>
 			<li>United with interns to design a pattern recognition application, saving the company an estimated 6 digit outsourcing cost.</li>
 			<li>Converted products from Visual Basic to C#, updating company technology to more modern standards</li>
-			<li>Created new applications for sales team of subsidiary company, Viracon, to get more work done in less time</li>
+			<li>Created new applications for sales team of subsidiary company to get more work done in less time</li>
 		</header>
 		<p></p>
 	</div>
