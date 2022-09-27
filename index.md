@@ -1,8 +1,8 @@
 ---
 layout: home
-title: Freelance Developer For Savings On Websites
-landing-title: "Hello there, my name is Jax."
-description: "Freelancer doing everything you need for low cost, secure, quality websites. Reach out today for a free consolation."
+title: Developer For Savings On Websites
+landing-title: "Hi, I'm Jax - Freelance Developer"
+description: "The go to for a low cost, secure, quality website. Reach out today for a free consolation."
 short-description: "Full Stack Software Developer"
 image: null
 author: null
