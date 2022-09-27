@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Developer For Savings On Websites
+title: Developer For Affordable Websites
 landing-title: "Hi, I'm Jax - Freelance Developer"
 description: "The go to for a low cost, secure, quality website. Reach out today for a free consolation."
 short-description: "Full Stack Software Developer"
