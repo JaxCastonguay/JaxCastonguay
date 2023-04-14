@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Developer For Affordable Websites
+title: Jax | Full Stack Software Developer
 landing-title: "Hi, I'm Jax - Full Stack Software Developer"
 description: "Full Stack Software Developer in Twin Cities Area"
 short-description: "Full Stack Software Developer"
