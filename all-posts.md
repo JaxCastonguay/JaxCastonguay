@@ -1,6 +1,6 @@
 ---
 layout: allposts
-title: blog posts
+title: Side Project Blog Posts
 landing-title: "All posts"
 nav-menu: true
 description: announcements and additional information

@@ -5,61 +5,61 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html lang="en">
+  {% include head.html %}
 
-{% include head.html %}
-
-<body>
-
+  <body>
     {% include header.html %}
 
     <!-- Banner -->
     <section id="banner" class="major">
-        <div class="inner">
-            <header class="major">
-                <h1>{{ page.landing-title }}</h1>
-            </header>
-            <div class="content">
-                <p style="text-transform: uppercase;">{{ site.description }}</p>
-                <ul class="actions">
-                    <li><a href="#contact" class="button next scrolly">Get In Contact</a></li>
-                </ul>
-            </div>
+      <div class="inner">
+        <header class="major">
+          <h1>{{ page.landing-title }}</h1>
+        </header>
+        <div class="content">
+          <p style="text-transform: uppercase">{{ site.description }}</p>
+          <ul class="actions">
+            <li>
+              <a href="#contact" class="button next scrolly">Get In Contact</a>
+            </li>
+          </ul>
         </div>
+      </div>
     </section>
 
     <!-- Main -->
     <div id="main">
-        <!-- Two -->
-        <section id="two">
-            <div class="inner">
-                <header class="major">
-                    <h2>Full Stack Developer</h2>
-                </header>
-                <p>{{ content }}</p>
-                <ul class="actions">
-                    <li><a href="details.html" class="button next">Learn More</a></li>
-                </ul>
-            </div>
-        </section>
-        <!-- One -->
+      <!-- Two -->
+      <section id="two">
+        <div class="inner">
+          <header class="major">
+            <h2>Full Stack Developer</h2>
+          </header>
+          <p>{{ content }}</p>
+          <ul class="actions">
+            <li>
+              <a href="all-posts.html" class="button next">My Projects</a>
+            </li>
+          </ul>
+        </div>
+      </section>
+      <!-- One -->
 
-        {% include tiles.html %}
-        
-        <section id="three">
-            <div class="inner">
-                <header class="major">
-                    <h2>Let's get started!</h2>
-                </header>
-                <p>Get in contact by by filling out the info below and clicking 'send.' I'll be in touch shortly. Or you can reach out by email/text/call.</p>
-            </div>
-        </section>
+      {% include tiles.html %}
 
-
-
+      <section id="three">
+        <div class="inner">
+          <header class="major">
+            <h2>Let's get started!</h2>
+          </header>
+          <p>
+            Get in contact by by filling out the info below and clicking 'send.'
+            I'll be in touch shortly. Or you can reach out by email/text/call.
+          </p>
+        </div>
+      </section>
     </div>
 
     {% include footer.html %}
-
-</body>
-
+  </body>
 </html>

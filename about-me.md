@@ -26,12 +26,13 @@ nav-menu: true
 		<header class="major">
 			<h2>My Experience Now</h2>
 			<h3>Programming Skills and Technologies</h3>
-			<li>Java, PHP, SQL, C#</li>
-			<li>Experience with GitHub/GitLab, Mockito, Netlify, Jenkins, Spring Batch, and Android</li>
+			<li>PHP, Javascript/Typescript, Java, SQL, C#</li>
+			<li>Experience with Angular, GitHub/GitLab, Netlify, Spring Batch, and Android</li>
 			<br><br>
 			<h3>Work Experience</h3>
 			<h4>Fullstack Engineer II | April 2022 - now</h4>
 			<li>Incorporated schema changes and backend CRUD API calls to existing site</li>
+			<li>Utilized third party API to handle tax exemptions on select online orders</li>
 			<li>Corrected slow unit tests to reduce run time of nightly tests cron job</li>
 			<br>
 			<h4>Software Engineer | June 2020 - April 2022</h4>

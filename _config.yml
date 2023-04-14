@@ -2,12 +2,11 @@
 title: Jax Castonguay
 subtitle: Full Stack Developer
 email: jaxcastonguaydev@gmail.com
-description: I make affordable websites for small businesses
+description: Jax is the name, learning new technologies is the game.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
 street_address: Greater Twin Cities Area
-phone: (612) 817-7699
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
