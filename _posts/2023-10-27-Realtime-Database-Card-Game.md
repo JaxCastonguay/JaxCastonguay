@@ -14,7 +14,7 @@ I wanted to play a Spanish version of CAH to practice my Spanish with friends. I
 
 Wow they just let you use all their cards? Yes, see [here](https://www.cardsagainsthumanity.com/terms-of-use) (under "License")
 
-Warning! These are using real Cards Against Humanity Questions and answers, meaning most of the content is very inappropriate.
+Warning! These are using real Cards Against Humanity cards, meaning most of the content is very inappropriate.
 
 ## 🧠 What I Learned
 
