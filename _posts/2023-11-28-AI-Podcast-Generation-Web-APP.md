@@ -19,7 +19,9 @@ I'll admit it, I'm a headline only reader. But I'm trying to get better. The ide
 - Use Open AI's wonderful new text to speech API to get a natural, not robot-y, sounding mp3 file.
 - Store audio files and data throughout the day and splice them together at the end.
 - Give user a self-tailored podcast of all their articles they added throughout the day.
-  But in practice I ran into quite a few headaches.
+
+But in practice I ran into quite a few headaches.
+
 - Had to store tokenizers for a natural language processor grabbing the articles (NTLK/punkt) in order to not have to download punkt on every server call (expensive compute time)
 - Pydub, which I used for splicing audio files together, relied on ffmpeg and ffprobe. This caused zero issues on my Windows machine, but I had to store and point to the binary files when running my functions on firebase (Linux)
 - Audio bugs when splicing files together that had slightly different metadata
